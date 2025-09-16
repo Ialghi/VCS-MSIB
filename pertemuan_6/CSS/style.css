@@ -1,0 +1,24 @@
+#carouselExample .carousel-item img {
+    height: 150px !important;
+    object-fit: cover;
+}
+.bg-nav{
+    background-color: #0b8ccd;
+}
+ul{
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+li a{
+    text-decoration: none;
+    color: #333333;
+    padding-left: 8px;
+}
+li a:hover{
+    color: #4800ffc8;
+}
+hr{
+    padding: 5px 0 !important;
+    margin: 2px 0 !important;
+}

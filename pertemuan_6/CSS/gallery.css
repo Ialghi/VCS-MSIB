@@ -1,0 +1,22 @@
+* {
+    box-sizing: border-box;
+    font-family: Arial, sans-serif;
+}
+h1 {
+    text-align: center;
+    color: #0b8ccd;
+}
+hr {
+    border: none;
+    height: 2px;
+    background-color: #0b8ccd;
+}
+img {
+    border-radius: 20px;
+    margin: 20px;
+    height: 300px;
+    transition: transform 0.3s ease;
+}
+img:hover {
+    transform: scale(0.97);
+}

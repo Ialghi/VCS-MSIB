@@ -1,0 +1,32 @@
+* {
+    box-sizing: border-box;
+    font-family: Arial, sans-serif;
+}
+h1 {
+    text-align: center;
+    color: #0b8ccd;
+}
+.hr-top {
+    border: none;
+    height: 2px;
+    background-color: #0b8ccd;
+}
+img {
+    display: block;
+    margin: 20px auto;
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+}
+table {
+    margin: 20px auto;
+    font-size: 16px;
+}
+.container{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+}
+p {
+    margin: 5px 0;
+}
